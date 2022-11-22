@@ -54,7 +54,8 @@ code](https://github.com/bdwilson/esp-propane-sensor/tree/main/hall_sensor-fireb
 into Arduino. You will need to add
 <code>http://download.dfrobot.top/FireBeetle/package_DFRobot_index.json</code>
 to <b>Additional Boards Manager</b> then go to Boards Manager and add
-<b>DFRobot ESP32 Boards</b>. Configure your board as follows:
+<b>DFRobot ESP32 Boards</b>. Configure your board as follows - notice the Huge
+App Settings:<br>
 <img src="https://bdwilson.github.io/images/esp32-settings.png" width=300px>
 
 4. Customize settings in the Arduino code - Wifi, using hubitat? using genmon?
