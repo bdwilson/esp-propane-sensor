@@ -56,7 +56,7 @@ into Arduino. You will need to add
 to <b>Additional Boards Manager</b> then go to Boards Manager and add
 <b>DFRobot ESP32 Boards</b>. Configure your board as follows - notice the Huge
 App Settings:<br>
-<img src="https://bdwilson.github.io/images/esp32-settings.png" width=300px>
+<img src="https://bdwilson.github.io/images/esp32-settings.png" width=400px>
 
 4. Customize settings in the Arduino code - Wifi, using hubitat? using genmon?
 enable BTLE? You can also search for <code>esp_sleep</code> and see additional options for
@@ -65,7 +65,7 @@ leave it enabled when testing.
  
 5. Optionally connect a solar charger and hope this number keeps getting
 bigger.<br>
-<img src="https://bdwilson.github.io/images/esp32-propane-graph.png" width=300px>
+<img src="https://bdwilson.github.io/images/esp32-propane-graph.png" width=500px>
 
 Bugs/Contact Info
 -----------------
