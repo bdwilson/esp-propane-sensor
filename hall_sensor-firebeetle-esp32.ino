@@ -54,7 +54,7 @@ String capacity = "320";
 // hubitat info
 bool doHubitat = 1;  // set to 0 if you don't use hubitat.
 String HubitatApp = "http://192.168.1.xx/apps/api/1234/update";
-String HubitatAccess = "15f62234-xxxx-xxxxx-xxxx-xxxxx˝;
+String HubitatAccess = "15f62234-xxxx-xxxxx-xxxx-xxxxx";
 
 // enable BLE name: PROPANE:LEVEL=xxx:BATT=xxx
 bool doBLE = 0;
